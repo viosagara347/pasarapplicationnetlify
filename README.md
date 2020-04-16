@@ -19,7 +19,7 @@ or
 $ gulp watch
 ```
 
-__*Copied and Adopted From **[SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)** README.md*__
+__*Quoted and Updated **[SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)** README.md*__
 
 > ### Gulp Tasks
 >
