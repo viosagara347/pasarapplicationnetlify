@@ -1,5 +1,5 @@
 # pasarapplicationnetlify
-**_Edited_** **[ Colorlib. VEGEFOODS Templates ](https://colorlib.com/wp/template/vegefoods/)** and using **netlify** for live preview. 
+**_Edited_** **[ Colorlib. VEGEFOODS Templates ](https://colorlib.com/wp/template/vegefoods/)** and using **[ netlify ](https://www.netlify.com/)** for live preview. 
 
 ## Netlify Deploy Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f8401b63-0104-4985-acd7-61e1778bc37f/deploy-status)](https://app.netlify.com/sites/pasarapplication/deploys)
