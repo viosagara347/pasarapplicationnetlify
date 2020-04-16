@@ -4,24 +4,22 @@ using netlify for live preview.
 ## Netlify Deploy Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f8401b63-0104-4985-acd7-61e1778bc37f/deploy-status)](https://app.netlify.com/sites/pasarapplication/deploys)
 
-**ClickAble Links: [pasarapplications](https://pasarapplication)**
+**ClickAble Links: [pasarapplications](https://pasarapplication.netlify.app)**
 
-Please Make Sure that NPM and Gulp Installed Successfully.
-After that,
 **NPM** Proper Fitment.
 ```sh
-$npm install
+$ npm install
 ```
 and then
 ```sh
-$npm start
+$ npm start
 ```
 or
 ```sh
-$gulp watch
+$ gulp watch
 ```
 
-*Copied and Adapted From [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) README.md*
+*Copied and Adapted From **[SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)** README.md*
 
 ### Gulp Tasks
 
@@ -31,4 +29,4 @@ $gulp watch
 -   `gulp js` minifies the themes JS file
 -   `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-You must have npm installed globally in order to use this build environment. This theme was built using node v11.6.0 and the Gulp CLI v2.0.1. If Gulp is not running properly after running `npm install`, you may need to update node and/or the Gulp CLI locally. 
+You must have npm installed globally in order to use this build environment. _( **viosagara347 edits** Built using node v12.16.2 and the Gulp CLI v2.2.0 Local v4.0.2 )_. If Gulp is not running properly after running `npm install`, you may need to update node and/or the Gulp CLI locally. 
