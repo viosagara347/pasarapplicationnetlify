@@ -32,6 +32,6 @@ __*Quoted and Updated **[SB Admin 2](https://startbootstrap.com/template-overvie
 > You must have npm installed globally in order to use this build environment. _( **viosagara347 edits** Built using node v12.16.2 and the Gulp CLI v2.2.0 > Local v4.0.2 )_. If Gulp is not running properly after running `npm install`, you may need to update node and/or the Gulp CLI locally. 
 
 ## To-Do 
-- [ ] Gulp Implementation
-- [ ] Netlify Success Deploy
+- [x] Gulp Implementation **CHECKED ALREADY. ALHAMDULILLAH**
+- [x] Netlify Success Deploy **CHECKED ALREADY. ALHAMDULILLAH**
 - [ ] Editing Templates According To The Needs
